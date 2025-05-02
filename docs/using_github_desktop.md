@@ -6,13 +6,14 @@ Download GitHub Desktop from the [official website](https://github.com/apps/desk
 ## 2. Clone the EBD-toolkit repository via GitHub Desktop
 The repository (terminology for "project" or "shared folder" in GitHub Desktop) that we need to clone can be found at the front page of the EBD-toolkit GitHub repository: https://github.com/rabaur/EBD-Toolkit. Find the link by clicking the green “Code” button, then copy URL to clipboard. A simplified tutorial can also be found on this page.
 
-![Image](https://github.com/user-attachments/assets/aab64f9b-94d0-4026-a4ff-95741fc380e1)
+![image](https://github.com/user-attachments/assets/2302da01-0169-4d00-b9c0-62f0958ee87f)
+
 
 Open Github Desktop and select File > Clone Repository. In the dialog that opens, select the URL tab and paste the URL you copied from the EBD-toolkit repository. Select a local path where you want to save the repository and click Clone. 
 
-![Image](https://github.com/user-attachments/assets/d8e0a49f-b08a-4f6a-bbf0-62d20a1f1c84)
+![image](https://github.com/user-attachments/assets/8ee0487c-bfee-45db-b636-b1dd2fec7183)
 
-![Image](https://github.com/user-attachments/assets/52373f9d-8f2f-4f72-adb1-456f46504c32)
+![image](https://github.com/user-attachments/assets/8f8c0fcf-7a71-4eb5-9a26-8518b167fef2)
 
 >[!IMPORTANT]
 > Make sure that the path is not located within any cloud storage folder, such as OneDrive, Google Drive, or Dropbox. This can cause issues with file syncing and version control.
