@@ -12,6 +12,8 @@ Visit [GitHub Desktop's website](https://desktop.github.com/) and click the _Dow
 ## 2. Installing the EBD-Toolkit Project
 In GitHub Desktop, choose _File > Clone repository... > URL_ and enter the following URL: `https://github.com/rabaur/EBD-Toolkit.git`. Below, you will see where the toolkit will be saved on your system. Then, click _clone_.
 After the download, you can verify that the project has been saved to the indicated path.
+
+Detailed instructions on how to use GitHub Desktop for this project can be found in [How to use GitHub Desktop](docs/using_github_desktop.md). 
 ## 3. Installing the Unity Hub
 Now that we have downloaded the project, we need to install Unity Engine to open and view it. Visit [Unity's website](https://unity.com/pricing), then choose _Student & hobbyist_ > _Personal_ > _1. Download the Unity Hub > Download for [Windows | Mac | Linux]_, depending on your platform.
 After opening Unity Hub, you will be prompted to sign in. Please create a Unity ID if you have not already done so.
